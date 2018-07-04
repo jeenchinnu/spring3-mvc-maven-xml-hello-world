@@ -14,7 +14,7 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
   <div class="container">
 	<div class="navbar-header">
-		<a class="navbar-brand" href="#">Spring 3 MVC Project</a>
+		<a class="navbar-brand" href="#">First Project</a>
 	</div>
   </div>
 </nav>
@@ -32,7 +32,7 @@
 		</c:if>
     </p>
     <p>
-		<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+		<a class="btn btn-primary btn-lg" href="#" role="button">Click Here</a>
 	</p>
 	</div>
 </div>
